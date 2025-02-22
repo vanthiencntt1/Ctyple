@@ -1,1 +1,4 @@
 # Ctyple
+streamlit
+vnstock
+pandas
